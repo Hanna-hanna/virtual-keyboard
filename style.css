@@ -1,0 +1,47 @@
+.virtual-keyboard {
+    width: 704px;
+    margin: 0 auto;
+    padding: 5px;
+    background: #888888;
+    border: 3px solid #222222;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+.key-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.primary {
+    background: #444;
+    color: #fff;
+    font-weight: 500;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.secondary {
+    background: #222222;
+    color: #fff;
+    font-weight: 600;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.hidden {
+    display: none;
+}

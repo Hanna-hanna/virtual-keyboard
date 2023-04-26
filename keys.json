@@ -302,7 +302,7 @@
             "value_ru": "CapsLock",
             "value_ru_up": "CapsLock",
             "style": "secondary",
-            "width": "50px"
+            "width": "100px"
         },
         {
             "id": "31",
@@ -543,7 +543,7 @@
             "value_eng_up": "▲",
             "value_ru": "▲",
             "value_ru_up": "▲",
-            "style": "primary",
+            "style": "secondary",
             "width": "40px"
         },
         {
