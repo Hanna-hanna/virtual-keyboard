@@ -1,0 +1,652 @@
+[{
+    "row_1": [
+        {
+            "id": "1",
+            "code": "Backquote",
+            "value_eng": "`",
+            "value_eng_up": "~",
+            "value_ru": "ё",
+            "value_ru_up": "Ё",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "2",
+            "code": "Digit1",
+            "value_eng": "1",
+            "value_eng_up": "!",
+            "value_ru": "1",
+            "value_ru_up": "!",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "3",
+            "code": "Digit2",
+            "value_eng": "2",
+            "value_eng_up": "@",
+            "value_ru": "2",
+            "value_ru_up": "\"",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "4",
+            "code": "Digit3",
+            "value_eng": "3",
+            "value_eng_up": "#",
+            "value_ru": "3",
+            "value_ru_up": "№",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "5",
+            "code": "Digit4",
+            "value_eng": "4",
+            "value_eng_up": "$",
+            "value_ru": "4",
+            "value_ru_up": ";",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "6",
+            "code": "Digit5",
+            "value_eng": "5",
+            "value_eng_up": "%",
+            "value_ru": "5",
+            "value_ru_up": "%",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "7",
+            "code": "Digit6",
+            "value_eng": "6",
+            "value_eng_up": "^",
+            "value_ru": "6",
+            "value_ru_up": ":",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "8",
+            "code": "Digit7",
+            "value_eng": "7",
+            "value_eng_up": "&",
+            "value_ru": "7",
+            "value_ru_up": "?",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "9",
+            "code": "Digit8",
+            "value_eng": "8",
+            "value_eng_up": "*",
+            "value_ru": "8",
+            "value_ru_up": "*",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "10",
+            "code": "Digit9",
+            "value_eng": "9",
+            "value_eng_up": "(",
+            "value_ru": "9",
+            "value_ru_up": "(",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "11",
+            "code": "Digit0",
+            "value_eng": "0",
+            "value_eng_up": ")",
+            "value_ru": "0",
+            "value_ru_up": ")",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "12",
+            "code": "Minus",
+            "value_eng": "-",
+            "value_eng_up": "_",
+            "value_ru": "-",
+            "value_ru_up": "_",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "13",
+            "code": "Equal",
+            "value_eng": "+",
+            "value_eng_up": "=",
+            "value_ru": "+",
+            "value_ru_up": "=",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "14",
+            "code": "Backspace",
+            "value_eng": "Backspace",
+            "value_eng_up": "Backspace",
+            "value_ru": "Backspace",
+            "value_ru_up": "Backspace",
+            "style": "secondary",
+            "width": "100px"
+        }
+    ],
+    "row_2" : [
+        {
+            "id": "15",
+            "code": "Tab",
+            "value_eng": "Tab",
+            "value_eng_up": "Tab",
+            "value_ru": "Tab",
+            "value_ru_up": "Tab",
+            "style": "secondary",
+            "width": "50px"
+        },
+        {
+            "id": "16",
+            "code": "KeyQ",
+            "value_eng": "q",
+            "value_eng_up": "Q",
+            "value_ru": "й",
+            "value_ru_up": "Й",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "17",
+            "code": "KeyW",
+            "value_eng": "w",
+            "value_eng_up": "W",
+            "value_ru": "ц",
+            "value_ru_up": "Ц",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "18",
+            "code": "KeyE",
+            "value_eng": "e",
+            "value_eng_up": "E",
+            "value_ru": "у",
+            "value_ru_up": "У",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "19",
+            "code": "KeyR",
+            "value_eng": "r",
+            "value_eng_up": "R",
+            "value_ru": "к",
+            "value_ru_up": "К",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "20",
+            "code": "KeyT",
+            "value_eng": "t",
+            "value_eng_up": "T",
+            "value_ru": "е",
+            "value_ru_up": "Е",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "21",
+            "code": "KeyY",
+            "value_eng": "y",
+            "value_eng_up": "Y",
+            "value_ru": "н",
+            "value_ru_up": "Н",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "22",
+            "code": "KeyU",
+            "value_eng": "u",
+            "value_eng_up": "U",
+            "value_ru": "г",
+            "value_ru_up": "Г",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "23",
+            "code": "KeyI",
+            "value_eng": "i",
+            "value_eng_up": "I",
+            "value_ru": "ш",
+            "value_ru_up": "Ш",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "24",
+            "code": "KeyO",
+            "value_eng": "o",
+            "value_eng_up": "O",
+            "value_ru": "щ",
+            "value_ru_up": "Щ",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "25",
+            "code": "KeyP",
+            "value_eng": "p",
+            "value_eng_up": "P",
+            "value_ru": "з",
+            "value_ru_up": "З",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "26",
+            "code": "BracketLeft",
+            "value_eng": "[",
+            "value_eng_up": "{",
+            "value_ru": "х",
+            "value_ru_up": "Х",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "27",
+            "code": "BracketRight",
+            "value_eng": "]",
+            "value_eng_up": "}",
+            "value_ru": "ъ",
+            "value_ru_up": "Ъ",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "28",
+            "code": "Backslash",
+            "value_eng": "\\",
+            "value_eng_up": "|",
+            "value_ru": "\\",
+            "value_ru_up": "/",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "29",
+            "code": "Delete",
+            "value_eng": "Del",
+            "value_eng_up": "Del",
+            "value_ru": "Del",
+            "value_ru_up": "Del",
+            "style": "secondary",
+            "width": "44px"
+        }
+    ],
+    "row_3" : [
+        {
+            "id": "30",
+            "code": "CapsLock",
+            "value_eng": "CapsLock",
+            "value_eng_up": "CapsLock",
+            "value_ru": "CapsLock",
+            "value_ru_up": "CapsLock",
+            "style": "secondary",
+            "width": "100px"
+        },
+        {
+            "id": "31",
+            "code": "KeyA",
+            "value_eng": "a",
+            "value_eng_up": "A",
+            "value_ru": "ф",
+            "value_ru_up": "Ф",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "32",
+            "code": "KeyS",
+            "value_eng": "s",
+            "value_eng_up": "S",
+            "value_ru": "ы",
+            "value_ru_up": "Ы",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "33",
+            "code": "KeyD",
+            "value_eng": "d",
+            "value_eng_up": "D",
+            "value_ru": "в",
+            "value_ru_up": "В",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "34",
+            "code": "KeyF",
+            "value_eng": "f",
+            "value_eng_up": "F",
+            "value_ru": "а",
+            "value_ru_up": "А",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "35",
+            "code": "KeyG",
+            "value_eng": "g",
+            "value_eng_up": "G",
+            "value_ru": "п",
+            "value_ru_up": "П",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "36",
+            "code": "KeyH",
+            "value_eng": "h",
+            "value_eng_up": "H",
+            "value_ru": "р",
+            "value_ru_up": "Р",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "37",
+            "code": "KeyJ",
+            "value_eng": "j",
+            "value_eng_up": "J",
+            "value_ru": "о",
+            "value_ru_up": "О",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "38",
+            "code": "KeyK",
+            "value_eng": "k",
+            "value_eng_up": "K",
+            "value_ru": "л",
+            "value_ru_up": "Л",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "39",
+            "code": "KeyL",
+            "value_eng": "l",
+            "value_eng_up": "L",
+            "value_ru": "д",
+            "value_ru_up": "Д",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "40",
+            "code": "Semicolon",
+            "value_eng": ";",
+            "value_eng_up": ":",
+            "value_ru": "ж",
+            "value_ru_up": "Ж",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "41",
+            "code": "Quote",
+            "value_eng": "'",
+            "value_eng_up": "\"",
+            "value_ru": "э",
+            "value_ru_up": "Э",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "42",
+            "code": "Enter",
+            "value_eng": "Enter",
+            "value_eng_up": "Enter",
+            "value_ru": "Enter",
+            "value_ru_up": "Enter",
+            "style": "secondary",
+            "width": "86px"
+        }
+    ],
+    "row_4" : [
+        {
+            "id": "43",
+            "code": "ShiftLeft",
+            "value_eng": "Shift",
+            "value_eng_up": "Shift",
+            "value_ru": "Shift",
+            "value_ru_up": "Shift",
+            "style": "secondary",
+            "width": "100px"
+        },
+        {
+            "id": "44",
+            "code": "KeyZ",
+            "value_eng": "z",
+            "value_eng_up": "Z",
+            "value_ru": "я",
+            "value_ru_up": "Я",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "45",
+            "code": "KeyX",
+            "value_eng": "x",
+            "value_eng_up": "X",
+            "value_ru": "ч",
+            "value_ru_up": "Ч",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "46",
+            "code": "KeyC",
+            "value_eng": "c",
+            "value_eng_up": "C",
+            "value_ru": "с",
+            "value_ru_up": "С",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "47",
+            "code": "KeyV",
+            "value_eng": "v",
+            "value_eng_up": "V",
+            "value_ru": "м",
+            "value_ru_up": "М",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "48",
+            "code": "KeyB",
+            "value_eng": "b",
+            "value_eng_up": "B",
+            "value_ru": "и",
+            "value_ru_up": "И",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "49",
+            "code": "KeyN",
+            "value_eng": "n",
+            "value_eng_up": "N",
+            "value_ru": "т",
+            "value_ru_up": "Т",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "50",
+            "code": "KeyM",
+            "value_eng": "m",
+            "value_eng_up": "M",
+            "value_ru": "ь",
+            "value_ru_up": "Ь",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "51",
+            "code": "Comma",
+            "value_eng": ",",
+            "value_eng_up": "<",
+            "value_ru": "б",
+            "value_ru_up": "Б",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "52",
+            "code": "Period",
+            "value_eng": ".",
+            "value_eng_up": ">",
+            "value_ru": "ю",
+            "value_ru_up": "Ю",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "53",
+            "code": "Slash",
+            "value_eng": "/",
+            "value_eng_up": "?",
+            "value_ru": ".",
+            "value_ru_up": ",",
+            "style": "primary",
+            "width": "40px"
+        },
+        {
+            "id": "54",
+            "code": "ArrowUp",
+            "value_eng": "▲",
+            "value_eng_up": "▲",
+            "value_ru": "▲",
+            "value_ru_up": "▲",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "55",
+            "code": "ShiftRight",
+            "value_eng": "Shift",
+            "value_eng_up": "Shift",
+            "value_ru": "Shift",
+            "value_ru_up": "Shift",
+            "style": "secondary",
+            "width": "86px"
+        }
+    ], 
+    "row_5" : [
+        {
+            "id": "56",
+            "code": "ControlLeft",
+            "value_eng": "Ctrl",
+            "value_eng_up": "Ctrl",
+            "value_ru": "Ctrl",
+            "value_ru_up": "Ctrl",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "57",
+            "code": "MetaLeft",
+            "value_eng": "Win",
+            "value_eng_up": "Win",
+            "value_ru": "Win",
+            "value_ru_up": "Win",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "58",
+            "code": "AltLeft",
+            "value_eng": "Alt",
+            "value_eng_up": "Alt",
+            "value_ru": "Alt",
+            "value_ru_up": "Alt",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "59",
+            "code": "Space",
+            "value_eng": "",
+            "value_eng_up": "",
+            "value_ru": "",
+            "value_ru_up": "",
+            "style": "primary",
+            "width": "330px"
+        },
+        {
+            "id": "60",
+            "code": "AltRight",
+            "value_eng": "Alt",
+            "value_eng_up": "Alt",
+            "value_ru": "Alt",
+            "value_ru_up": "Alt",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "61",
+            "code": "ArrowLeft",
+            "value_eng": "◄",
+            "value_eng_up": "◄",
+            "value_ru": "◄",
+            "value_ru_up": "◄",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "62",
+            "code": "ArrowDown",
+            "value_eng": "▼",
+            "value_eng_up": "▼",
+            "value_ru": "▼",
+            "value_ru_up": "▼",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "63",
+            "code": "ArrowRight",
+            "value_eng": "►",
+            "value_eng_up": "►",
+            "value_ru": "►",
+            "value_ru_up": "►",
+            "style": "secondary",
+            "width": "40px"
+        },
+        {
+            "id": "64",
+            "code": "ControlRight",
+            "value_eng": "Ctrl",
+            "value_eng_up": "Ctrl",
+            "value_ru": "Ctrl",
+            "value_ru_up": "Ctrl",
+            "style": "secondary",
+            "width": "40px"
+        }
+    ]
+}]
